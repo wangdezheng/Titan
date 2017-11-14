@@ -14,7 +14,7 @@ import entity.Item;
 import entity.Item.ItemBuilder;
 import external.YelpAPI;
 
-// This is a singleton pattern.
+// This is a singleton pattern used for single thread environment
 public class MySQLConnection implements DBConnection {
 	private static MySQLConnection instance;
 
