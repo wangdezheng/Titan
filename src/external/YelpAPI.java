@@ -17,6 +17,7 @@ import org.json.JSONObject;
 import entity.Item;
 import entity.Item.ItemBuilder;
 
+//Create YelpAPI to get access and data from Yelp
 public class YelpAPI {
 	private static final String API_HOST = "https://api.yelp.com";
 	private static final String DEFAULT_TERM = "dinner";
