@@ -11,7 +11,7 @@ import db.DBConnection;
 import db.DBConnectionFactory;
 import entity.Item;
 
-// Recommendation based on geo distance and similar categories.
+// Recommendation algorithm based on geo distance and similar categories.
 public class Recommendation {
 
 	public List<Item> recommendItems(String userId, double lat, double lon) {
