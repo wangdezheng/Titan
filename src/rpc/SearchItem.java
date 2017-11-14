@@ -21,6 +21,7 @@ import entity.Item;
 /**
  * Servlet implementation class SearchItem
  */
+//Create SearchItem Servlet
 @WebServlet("/Titan/search")
 public class SearchItem extends HttpServlet {
 	private static final long serialVersionUID = 1L;
