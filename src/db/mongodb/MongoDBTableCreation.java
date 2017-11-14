@@ -8,7 +8,7 @@ import com.mongodb.MongoClient;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.IndexOptions;
 
-// Create tables for MongoDB (all pipelines).
+// Create tables for MongoDB
 public class MongoDBTableCreation {
 	// Run as Java application to create MongoDB tables with index.
 	public static void main(String[] args) throws ParseException {
