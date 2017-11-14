@@ -10,7 +10,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 /**
- * A helper class to handle rpc related parsing logics.
+ * A helper class to handle rpc related parsing logic
  */
 public class RpcHelper {
 	// Parses a JSONObject from http request.
