@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Titan" />
+          <element id="module-output" name="Titan-A Restaurant Search Web Application" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="bson-3.4.1" />
@@ -14,7 +14,7 @@
           <element id="file-copy" path="$PROJECT_DIR$/mysql-connector-java-5.1.44-bin.jar" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="Titan/web/Web" />
+      <element id="javaee-facet-resources" facet="Titan-A Restaurant Search Web Application/web/Web" />
     </root>
   </artifact>
 </component>
