@@ -16,7 +16,7 @@ import db.DBConnection;
 import entity.Item;
 import entity.Item.ItemBuilder;
 import external.YelpAPI;
-
+// This is a singleton pattern used for single thread environment
 public class MongoDBConnection implements DBConnection {
 
 	private static MongoDBConnection instance;
