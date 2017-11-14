@@ -18,6 +18,7 @@ import entity.Item;
 /**
  * Servlet implementation class RecommendItem
  */
+//Create RecommendItem Servlet
 @WebServlet("/Titan/recommendation")
 public class RecommendItem extends HttpServlet {
   private static final long serialVersionUID = 1L;
