@@ -6,6 +6,7 @@ import db.mysql.MySQLConnection;
 public class DBConnectionFactory {
 
 	// This should change based on the pipeline.
+	// Can set default database
 	private static final String DEFAULT_DB = "mysql";
 
 	// Create a DBConnection based on given db type.
