@@ -9,6 +9,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+//Use builder pattern to create item entity
 public class Item {
 	private String itemId;
 	private String name;
