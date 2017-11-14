@@ -6,7 +6,7 @@ import java.sql.Statement;
 import java.sql.Connection;
 
 public class MySQLTableCreation {
-	// Run this as Java application to reset db schema.
+	// Run this as Java application to reset db schema
 	public static void main(String[] args) {
 		try {
 			// Ensure the driver is imported.
