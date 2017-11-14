@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Set;
 
 import entity.Item;
-
+// Create DBConnection interface for both SQL and NOSql database
 public interface DBConnection {
 	/**
 	 * Close the connection.
